@@ -39,10 +39,6 @@ router.post('/', async (req, res)=> {
 
 })
 
-//edit user
-router.put('/', async (req, res)=> {
-    
-})
 
 //post user
 router.delete('/:id', async (req, res)=> {
